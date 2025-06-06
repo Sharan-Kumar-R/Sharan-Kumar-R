@@ -2,10 +2,7 @@
 
 # 🚀 Sharan Kumar R - Tech Stack & Skills
 
-## 👨‍💻 About Me
 AI Engineer & Software Developer specializing in multi-modal AI assistants, agentic systems, and intelligent automation solutions.
-
----
 
 ## 🤖 AI & Machine Learning
 <p align="center">
@@ -17,8 +14,6 @@ AI Engineer & Software Developer specializing in multi-modal AI assistants, agen
 
 **Agentic AI Systems** • **RAG Pipelines** • **Multi-Modal Assistants** • **CrewAI**
 
----
-
 ## 💻 Core Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -29,8 +24,6 @@ AI Engineer & Software Developer specializing in multi-modal AI assistants, agen
 
 **FastAPI** • **Node.js** • **Vector Databases** • **Real-time APIs**
 
----
-
 ## 🎙️ Voice & Communication
 <p align="center">
   <img src="https://img.shields.io/badge/speech--to--text-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Speech-to-Text">
@@ -40,7 +33,6 @@ AI Engineer & Software Developer specializing in multi-modal AI assistants, agen
 
 **Real-time Voice Processing** • **Multi-Modal Communication** • **3D AI Avatars**
 
----
 
 ## 🔌 IoT & Edge Computing
 <p align="center">
@@ -51,7 +43,6 @@ AI Engineer & Software Developer specializing in multi-modal AI assistants, agen
 
 **Smart Healthcare Systems** • **Indoor Positioning** • **Edge AI**
 
----
 
 ## 📫 Connect With Me
 
