@@ -2,7 +2,6 @@
 
 # 🚀 Sharan Kumar R - Tech Stack & Skills
 
-## 👨‍💻 About Me
 AI Engineer & Software Developer specializing in multi-modal AI assistants, agentic systems, and intelligent automation solutions.
 
 ## 🤖 AI & Machine Learning
