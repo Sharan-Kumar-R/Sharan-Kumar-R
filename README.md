@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Sharan Kumar R - Tech Stack & Skills
+#  Sharan Kumar R - Tech Stack & Skills
 
 AI Engineer & Software Developer specializing in multi-modal AI assistants, agentic systems, and intelligent automation solutions.
 
