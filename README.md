@@ -99,7 +99,7 @@ Currently contributing to **Springer publications** on:
 ## 🏆 Featured Projects
 
 ### 🐄 **CowKin** - Sony-funded cattle health monitoring system
-### 🥚 **Egg Fertility Classifier** - Computer vision for poultry industry
+### 🥚 **Egg Fertility Classifier** - Computer vision for poultry industry  
 ### 🛒 **Smart Shopping Mall** - BLE beacon-based indoor navigation
 ### 🌬️ **Air Quality Monitor** - IoT system with federated learning
 ### 🎭 **Woice AI** - Multi-modal AI assistant with 3D avatar
@@ -142,5 +142,15 @@ Currently contributing to **Springer publications** on:
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
+</p>
+```
+
+### For Computer Vision Projects:
+```markdown
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 </p>
 ```
