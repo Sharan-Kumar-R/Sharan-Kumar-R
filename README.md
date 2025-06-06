@@ -1,7 +1,7 @@
 # 🚀 Sharan Kumar R - Tech Stack & Skills
 
 ## 👨‍💻 About Me
-AI Engineer & Full-Stack Developer passionate about building intelligent systems that solve real-world problems. Currently working on multi-modal AI assistants, IoT solutions, and computer vision applications.
+AI Engineer & Software Developer passionate about building intelligent systems that solve real-world problems. Currently working on multi-modal AI assistants, IoT solutions, and computer applications.
 
 ## 🛠️ Programming Languages
 <p align="center">
