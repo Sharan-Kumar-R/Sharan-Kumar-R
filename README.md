@@ -5,8 +5,6 @@
 ## 👨‍💻 About Me
 AI Engineer & Software Developer specializing in multi-modal AI assistants, agentic systems, and intelligent automation solutions.
 
----
-
 ## 🤖 AI & Machine Learning
 <p align="center">
   <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
@@ -16,8 +14,6 @@ AI Engineer & Software Developer specializing in multi-modal AI assistants, agen
 </p>
 
 **Agentic AI Systems** • **RAG Pipelines** • **Multi-Modal Assistants** • **CrewAI**
-
----
 
 ## 💻 Core Technologies
 <p align="center">
@@ -29,8 +25,6 @@ AI Engineer & Software Developer specializing in multi-modal AI assistants, agen
 
 **FastAPI** • **Node.js** • **Vector Databases** • **Real-time APIs**
 
----
-
 ## 🎙️ Voice & Communication
 <p align="center">
   <img src="https://img.shields.io/badge/speech--to--text-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Speech-to-Text">
@@ -39,8 +33,6 @@ AI Engineer & Software Developer specializing in multi-modal AI assistants, agen
 </p>
 
 **Real-time Voice Processing** • **Multi-Modal Communication** • **3D AI Avatars**
-
----
 
 ## 🔌 IoT & Edge Computing
 <p align="center">
@@ -51,14 +43,12 @@ AI Engineer & Software Developer specializing in multi-modal AI assistants, agen
 
 **Smart Healthcare Systems** • **Indoor Positioning** • **Edge AI**
 
----
-
 ## 📫 Connect With Me
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharankumarjl723@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharan-kumar-r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharan-kumar-r-1ba00124b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharan-Kumar-R)
 
 </div>
