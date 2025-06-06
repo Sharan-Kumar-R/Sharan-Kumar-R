@@ -87,23 +87,6 @@ Building intelligent agents that can autonomously complete complex tasks using *
 
 Developing **real-time voice assistants** with **Twilio integration** and **multi-modal communication** platforms.
 
-### 🔍 **Computer Vision**
-Working on **medical image analysis**, **egg fertility classification** using **candling techniques**, and **visual saliency detection** for healthcare applications.
-
-## 📚 Research & Publications
-
-Currently contributing to **Springer publications** on:
-- **AI in Fetal Medicine** (2024)
-- **ML and DEA in Healthcare Applications** (2025)
-
-## 🏆 Featured Projects
-
-### 🐄 **CowKin** - Sony-funded cattle health monitoring system
-### 🥚 **Egg Fertility Classifier** - Computer vision for poultry industry  
-### 🛒 **Smart Shopping Mall** - BLE beacon-based indoor navigation
-### 🌬️ **Air Quality Monitor** - IoT system with federated learning
-### 🎭 **Woice AI** - Multi-modal AI assistant with 3D avatar
-
 ## 📫 Let's Connect!
 
 - 📧 **Email**: sharankumarjl723@gmail.com
