@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me !!
 
 I'm a passionate **AI Engineer** and **Software Developer** currently pursuing B.Tech in Computer Science at Amrita Vishwa Vidyapeetham. I specialize in building cutting-edge AI solutions, from multi-modal assistants to intelligent automation systems.
 
@@ -75,7 +75,7 @@ I'm a passionate **AI Engineer** and **Software Developer** currently pursuing B
 
 <p align="center">
 <div align="center">
-💭 "Building the future, one AI system at a time"
-Let's connect and build something amazing together!
+💭 "Building the future, Lets craft it together !!"
+
 </div>
 </p>
