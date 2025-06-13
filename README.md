@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm Sharan Kumar R! 👋
+# Hi there, I'm Sharan Kumar R! 
 
 ### AI Engineer & Full-Stack Developer
 *Specializing in Multi-Modal AI Assistants, Agentic Systems & Intelligent Automation*
@@ -74,118 +74,6 @@ I'm a passionate **AI Engineer** and **Software Developer** currently pursuing B
 
 ---
 
-## 🌟 Featured Projects
-
-### 🤖 **Woice AI** - Multi-Modal AI Assistant Platform
-- **Tech Stack:** Python, Flask, LlamaIndex, OpenAI GPT-4o-mini, Twilio, SQLite
-- **Features:** Voice calls, messaging, WhatsApp integration, interactive 3D AI Avatar
-- **Highlights:** Complete AI persona management system with Web UI
-
-### 🔍 **AI-Powered Sales Outreach & Job Prospecting Assistant**
-- **Tech Stack:** Python, Langchain, Groq (Llama3), Playwright, ChromaDB, MCP, Streamlit
-- **Features:** Automated job prospecting, personalized email generation, dynamic site scraping
-- **Innovation:** MCP standardization for modular agentic workflows
-
-### 📊 **AI-Driven Social Media & Marketing Intelligence System**
-- **Tech Stack:** CrewAI, Streamlit, Gemini LLM
-- **Features:** Multi-agent automation for social media analysis and market research
-- **Platforms:** Instagram, LinkedIn, Facebook integration with comprehensive reporting
-
-### 🐄 **CowKin** - Sony-Funded Smart Cattle Health Assessment
-- **Tech Stack:** GPS, Pandas, Folium, FFT, Raspberry Pi 4, ESP32, Sony Spresence
-- **Impact:** Revolutionary approach to cattle health monitoring using IoT
-
-### 🥚 **Egg Fertility Classification System**
-- **Tech Stack:** Computer Vision, CNN, Image Processing
-- **Application:** Optimizing poultry hatchery efficiency through AI-powered candling
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharan-Kumar-R&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Sharan-Kumar-R)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharan-Kumar-R&layout=compact&theme=radical)](https://github.com/Sharan-Kumar-R)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sharan-Kumar-R&theme=radical)](https://github.com/Sharan-Kumar-R)
-
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-- 🏅 **Amrita Meritorious Scholarship** (2021)
-- 🏀 **Inter Amrita Basketball Winners** (2022, 2023, 2024)
-- 💡 **Smart India Hackathon (SIH) Qualifiers** (2023)
-- 🚀 **Cisco ThingQbator Phase 2 Qualifier** (2023)
-- 🔧 **Intel OneAPI Hackathon Qualifiers** (2024)
-- 📚 **Published Author** - Springer Book Chapters on AI in Healthcare
-
----
-
-## 🎓 Education & Leadership
-
-**B.Tech Computer Science Engineering**  
-*Amrita Vishwa Vidyapeetham, Coimbatore (2021-2025)*  
-**CGPA:** 7.59/10
-
-### Leadership Roles
-- 🌐 **IoT Lead** - Google Developer Student Clubs
-- 🔧 **IoT Core Team Member** - Intel IoT Club  
-- 🤖 **Project Management Team Lead** - Robotics Club
-- 📚 **Education Team Lead** - NSS (National Service Scheme)
-
----
-
-## 🎯 Areas of Interest
-
-```yaml
-Primary Focus:
-  - Artificial Intelligence & Machine Learning
-  - Agentic AI Systems & Multi-Agent Frameworks
-  - Large Language Models & Generative AI
-  - Computer Vision & Medical Image Analysis
-  - Internet of Things (IoT) & Edge Computing
-  
-Secondary Interests:
-  - Cybersecurity & Network Architecture
-  - Full-Stack Web Development
-  - Real-time Systems & Automation
-```
-
----
-
-## 📚 Recent Publications
-
-- 📖 **"Artificial Intelligence: A New Paradigm in Fetal Medicine"** - Springer Book Chapter (2024)
-- 📖 **"ML and DEA in Healthcare Applications"** - Springer Book Chapter (2025)
-- 🔬 **Visual Saliency Detection on Medical Images (Lungs)** - Ongoing Research
-
----
-
-## 🎤 Speaking & Community
-
-- 🎓 **3-Day Technical Session** at AIIRF (Annamalai University)
-  - Topics: Neural Networks, Transformers, NLP, LLMs, Generative AI
-- 💼 **CISCO AICTE Virtual Internship Program** (6 months)
-- 🏢 **Full Stack Developer with IoT Specialist** - JRM Technologies
-
----
-
-## 🏃‍♂️ Beyond Code
-
-When I'm not building AI systems, you can find me:
-- 🏀 Playing Basketball (Inter-Amrita Champion!)
-- 🚴‍♂️ Cycling and exploring new routes
-- 🎵 Listening to music and discovering new artists
-- 📱 Keeping up with the latest tech innovations
-
----
-
-<div align="center">
 
 ### 💭 *"Building the future, one AI system at a time"*
 
