@@ -14,12 +14,8 @@
 
 ---
 
-##  About Me !!
-
-I'm a passionate **AI Engineer** and **Software Developer** currently pursuing B.Tech in Computer Science at Amrita Vishwa Vidyapeetham. I specialize in building cutting-edge AI solutions, from multi-modal assistants to intelligent automation systems.
-
 -  Currently working on **AI-Driven Social Media & Marketing Intelligence Systems**
--  Experienced on **Agentic AI**, **MCP Servers**, Multi-Modal Systems and **Advanced RAG Pipelines**
+-  Experienced in building **Agentic AI systems** working with **MCP Servers**, **Multi-Modal Systems** and designed **Advanced RAG Pipelines**
 -  Looking to collaborate on **AI/ML projects** and **IoT innovations**
 -  Ask me about **Neural Networks**, **Transformers**, **NLP**, **LLMs**, **Generative AI**, **Computer Vision**, or **IoT**
 
