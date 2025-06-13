@@ -4,7 +4,7 @@
 
 AI Engineer & Software Developer specializing in multi-modal AI assistants, agentic systems, and intelligent automation solutions.
 
-## 🤖 AI & Machine Learning
+## AI & Machine Learning
 <p align="center">
   <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
@@ -14,7 +14,7 @@ AI Engineer & Software Developer specializing in multi-modal AI assistants, agen
 
 **Agentic AI Systems** • **RAG Pipelines** • **Multi-Modal Assistants** • **CrewAI**
 
-## 💻 Core Technologies
+## Core Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
