@@ -74,7 +74,8 @@ I'm a passionate **AI Engineer** and **Software Developer** currently pursuing B
 ---
 
 <p align="center">
-### 💭 *"Building the future, one AI system at a time"*
-
-**Let's connect and build something amazing together!**
+<div align="center">
+💭 "Building the future, one AI system at a time"
+Let's connect and build something amazing together!
+</div>
 </p>
