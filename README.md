@@ -24,22 +24,6 @@ AI Engineer & Software Developer specializing in multi-modal AI assistants, agen
 
 **FastAPI** • **Node.js** • **Vector Databases** • **Real-time APIs**
 
-## 🎙️ Voice & Communication
-<p align="center">
-  <img src="https://img.shields.io/badge/speech--to--text-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Speech-to-Text">
-  <img src="https://img.shields.io/badge/text--to--speech-FF4B4B?style=for-the-badge&logo=amazon-alexa&logoColor=white" alt="Text-to-Speech">
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio">
-</p>
-
-**Real-time Voice Processing** • **Multi-Modal Communication** • **3D AI Avatars**
-
-## 🔌 IoT & Edge Computing
-<p align="center">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
-  <img src="https://img.shields.io/badge/BLE_Beacons-0052CC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="BLE Beacons">
-</p>
-
 **Smart Healthcare Systems** • **Indoor Positioning** • **Edge AI**
 
 ## 📫 Connect With Me
