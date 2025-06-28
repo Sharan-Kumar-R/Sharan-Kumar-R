@@ -1,3 +1,4 @@
+---
 <div align="center">
   
 # Hi there, I'm Sharan Kumar R! 
@@ -59,3 +60,4 @@ Databases & Integration Tools
   <em>💭 "Building the future, Let's craft it together !!"</em>
 </p>
 
+---
