@@ -12,6 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sharan._.kumar_/)
 
 </div>
+
 -  Currently working on **AI-Driven Social Media & Marketing Intelligence Systems**.
 -  Experienced in building **Agentic AI systems** working with **MCP Servers**, **Multi-Modal Systems** and designed **Advanced RAG Pipelines**.
 -  Looking to collaborate on **AI/ML projects** and **IoT innovations**.
