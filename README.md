@@ -59,9 +59,3 @@ Databases & Integration Tools
   <em>💭 "Building the future, Let's craft it together !!"</em>
 </p>
 
-<p align="center">
-<div align="center">
-💭 "Building the future, Lets craft it together !!"
-
-</div>
-</p>
