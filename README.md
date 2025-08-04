@@ -3,7 +3,7 @@
   
 # Hi there, I'm Sharan Kumar R! 
 
-### AI Engineer & Full-Stack Developer
+### AI Engineer & Software Developer
 *Specializing in Multi-Modal AI Assistants, Agentic Systems & Intelligent Automation*.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharankumarjl723@gmail.com)
