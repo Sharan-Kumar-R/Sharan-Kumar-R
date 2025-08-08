@@ -1,7 +1,10 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=I'm+Sharan+Kumar+R!;" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=console.log('Hi+there+!!!');const+developer+=+'Sharan+Kumar+R';while(coding)+{+create()+};if(passionate)+return+true;" />
+  </a>
 </h1>
+
 
 <div align="center">
 
