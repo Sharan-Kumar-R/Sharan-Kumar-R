@@ -41,10 +41,9 @@
     <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
 </div>
 
----
 
 <br/><br/>
 <div align="center">
- | <em>💭 "Building the future, let's craft it together !!"</em> |
+  <em>💭 "Building the future, let's craft it together !!"</em> 
 </div>
----
+
