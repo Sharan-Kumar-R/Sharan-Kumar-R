@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=console.log('Hi+there+!!!');const+developer+=+'Sharan+Kumar+R';while(coding)+{+create()+};if(passionate)+return+true;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=console.log('Hi+there+!!!');const+developer+=+'Sharan+Kumar+R';while(coding)+{+create()+}" />
   </a>
 </h1>
 
@@ -23,14 +23,14 @@
   &nbsp;
 
 
-
+---
 <ul style="max-width: 600px; margin: auto; padding-left: 20px; line-height: 1.6;">
   <li>Currently working on <b>AI-Driven Intelligence Systems</b>.</li>
   <li>Experienced in building <b>Agentic AI systems</b> working with <b>MCP Servers</b>, <b>Multi-Modal Systems</b> and designed <b>Advanced RAG Pipelines</b>.</li>
   <li>Looking to collaborate on <b>AI/ML projects</b> and <b>IoT innovations</b>.</li>
   <li>Ask me about <b>Neural Networks</b>, <b>Transformers</b>, <b>NLP</b>, <b>LLMs</b>, <b>Generative AI</b>, <b>Model Context Protocol</b>, <b>Computer Vision</b>, or <b>IoT</b>.</li>
 </ul>
-
+---
 
 <h2 align="center"> Tech Stack </h2>
 <br/>
