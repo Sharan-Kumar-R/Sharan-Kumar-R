@@ -23,14 +23,14 @@
   &nbsp;
 
 
+
 ---
-<ul style="max-width: 600px; margin: auto; padding-left: 20px; line-height: 1.6;">
-  <li>Currently working on <b>AI-Driven Intelligence Systems</b>.</li>
-  <li>Experienced in building <b>Agentic AI systems</b> working with <b>MCP Servers</b>, <b>Multi-Modal Systems</b> and designed <b>Advanced RAG Pipelines</b>.</li>
-  <li>Looking to collaborate on <b>AI/ML projects</b> and <b>IoT innovations</b>.</li>
-  <li>Ask me about <b>Neural Networks</b>, <b>Transformers</b>, <b>NLP</b>, <b>LLMs</b>, <b>Generative AI</b>, <b>Model Context Protocol</b>, <b>Computer Vision</b>, or <b>IoT</b>.</li>
-</ul>
+-  Currently working on *AI-Driven Intelligence Systems*.
+-  Experienced in building *Agentic AI systems* working with *MCP Servers, **Multi-Modal Systems* and designed *Advanced RAG Pipelines*.
+-  Looking to collaborate on *AI/ML projects* and *IoT innovations*.
+-  Ask me about *Neural Networks, **Transformers, **NLP, **LLMs, **Generative AI, **Model Context Protocol, **Computer Vision, or **IoT*.
 ---
+
 
 <h2 align="center"> Tech Stack </h2>
 <br/>
