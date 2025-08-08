@@ -22,16 +22,12 @@
     <a title="Instagram" href="https://www.instagram.com/_sharan._.kumar_/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" /></a>
   &nbsp;
 
-
-
 ---
--  Currently working on *AI-Driven Social Media & Marketing Intelligence Systems*.
--  Experienced in building *Agentic AI systems* working with *MCP Servers, **Multi-Modal Systems* and designed *Advanced RAG Pipelines*.
--  Looking to collaborate on *AI/ML projects* and *IoT innovations*.
--  Ask me about *Neural Networks, **Transformers, **NLP, **LLMs, **Generative AI, **Model Context Protocol, **Computer Vision, or **IoT*.
+- Currently working on AI-Driven Social Media & Marketing Intelligence Systems.
+- Experienced in building Agentic AI systems working with MCP Servers, Multi-Modal Systems and designed Advanced RAG Pipelines.
+- Looking to collaborate on AI/ML projects and IoT innovations.
+- Ask me about Neural Networks, Transformers, NLP, LLMs, Generative AI, Model Context Protocol, Computer Vision, or IoT.
 ---
-
-
 
 <h2 align="center"> Tech Stack </h2>
 <br/>
