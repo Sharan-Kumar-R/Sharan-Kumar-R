@@ -23,7 +23,7 @@
   &nbsp;
 
 
-
+<br/>
 -  Currently working on **AI-Driven Intelligence Systems**.
 -  Experienced in building **Agentic AI systems** working with **MCP Servers**, **Multi-Modal Systems** and designed **Advanced RAG Pipelines**.
 -  Looking to collaborate on **AI/ML projects** and **IoT innovations**.
