@@ -8,6 +8,7 @@
 ### AI Engineer & Software Developer
 *Specializing in Multi-Modal AI Assistants, Agentic Systems & Intelligent Automation*.
 
+</div>
 <h4 align="center">Connect with Me</h4>
 <p align="center">
   <a title="WhatsApp" href="https://wa.me/9344780554" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="45" width="45" /></a>&nbsp;
@@ -17,7 +18,6 @@
   &nbsp;
     <a title="Instagram" href="https://www.instagram.com/_sharan._.kumar_/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" /></a>
   &nbsp;
-
 
 
 ---
@@ -46,4 +46,3 @@
 <div align="center">
   <em>💭 "Building the future, let's craft it together !!"</em> 
 </div>
-
