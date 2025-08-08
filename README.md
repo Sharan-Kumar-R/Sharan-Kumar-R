@@ -10,14 +10,22 @@
 
 </div>
 <h4 align="center">Connect with Me</h4>
+
 <p align="center">
-  <a title="WhatsApp" href="https://wa.me/9344780554" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="45" width="45" /></a>&nbsp;
-  <a title="Email" href="mailto:sharankumarjl723@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="45" width="45" /></a>
-  &nbsp;
-  <a title="LinkedIn" href="https://www.linkedin.com/in/sharan-kumar-r-1ba00124b/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
-  &nbsp;
-    <a title="Instagram" href="https://www.instagram.com/_sharan._.kumar_/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" /></a>
-  &nbsp;
+  <a href="https://wa.me/9344780554" title="WhatsApp">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="45" width="45" />
+  </a>&nbsp;
+  <a href="mailto:sharankumarjl723@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="45" width="45" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/sharan-kumar-r-1ba00124b/" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/_sharan._.kumar_/" title="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" />
+  </a>
+</p>
+
 
 
 ---
