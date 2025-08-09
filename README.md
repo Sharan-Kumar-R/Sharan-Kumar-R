@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,expressjs,flask,fastapi,sqlite,git,opencv,arduino" /><br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,matlab,html,css,react,github,vscode,raspberrypi,pytorch,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,matlab,html,css,react,github,vscode,raspberrypi" /><br>
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
     <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/Groq-FF6600?style=for-the-badge&logo=groq&logoColor=white" />
