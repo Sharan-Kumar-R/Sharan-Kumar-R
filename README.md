@@ -22,7 +22,6 @@
   &nbsp;
     <a title="Instagram" href="https://www.instagram.com/_sharan._.kumar_/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" /></a>
   &nbsp;
-<br/>
   
 ---
 - Currently working on AI-Driven Intelligence Systems.
