@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
 </div>
 
----
+
 <h4 align="center">Connect with Me</h4>
 <p align="center">
   <a title="WhatsApp" href="https://wa.me/9344780554" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="45" width="45" /></a>&nbsp;
