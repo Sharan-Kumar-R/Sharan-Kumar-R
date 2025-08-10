@@ -13,7 +13,17 @@
 
 </div>
 
-
+<h4 align="center">Connect with Me</h4>
+<p align="center">
+  <a title="WhatsApp" href="https://wa.me/9344780554" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="45" width="45" /></a>&nbsp;
+  <a title="Email" href="mailto:sharankumarjl723@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="42" width="42" /></a>
+  &nbsp;
+  <a title="LinkedIn" href="https://www.linkedin.com/in/sharan-kumar-r-1ba00124b/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
+  &nbsp;
+    <a title="Instagram" href="https://www.instagram.com/_sharan._.kumar_/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" /></a>
+  &nbsp;
+<br/>
+  
 ---
 - Currently working on AI-Driven Intelligence Systems.
 - Experienced in building Agentic AI systems working with MCP Servers, Multi-Modal Systems and designed Advanced RAG Pipelines.
@@ -34,17 +44,6 @@
     <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
 </div>
 
-
-<h4 align="center">Connect with Me</h4>
-<p align="center">
-  <a title="WhatsApp" href="https://wa.me/9344780554" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="45" width="45" /></a>&nbsp;
-  <a title="Email" href="mailto:sharankumarjl723@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="42" width="42" /></a>
-  &nbsp;
-  <a title="LinkedIn" href="https://www.linkedin.com/in/sharan-kumar-r-1ba00124b/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
-  &nbsp;
-    <a title="Instagram" href="https://www.instagram.com/_sharan._.kumar_/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" /></a>
-  &nbsp;
-<br/>
 <div align="center">
   <em>💭 "Building the future, let's craft it together !!"</em> 
 </div>
