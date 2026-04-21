@@ -15,13 +15,18 @@
 
 <h4 align="center">Connect with Me</h4>
 <p align="center">
-  <a href="https://wa.me/9344780554"><img src="https://skillicons.dev/icons?i=whatsapp" height="40"/></a>
-  &nbsp;&nbsp;
-  <a href="mailto:sharankumarjl723@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sharan-kumar-r-1ba00124b/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/_sharan._.kumar_"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://wa.me/9344780554" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="40"/>
+  </a>
+  <a href="mailto:sharankumarjl723@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sharan-kumar-r-1ba00124b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/_sharan._.kumar_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
 </p>
   
 ---
